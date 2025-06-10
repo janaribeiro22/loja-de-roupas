@@ -1,1 +1,1 @@
-Aprendendo a estruturar o HTML com CSS e aprendendo a mexer com o display flex, forms, inputs e outros comandos.
+Aprendendo a estruturar o HTML com CSS e aprendendo a mexer com flexbox: atribuindo o display flex, forms, inputs e outros comandos.
